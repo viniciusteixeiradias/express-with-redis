@@ -1,6 +1,6 @@
 # What is this project?
 
-This project is a simple example of how redis works, I used the `https://api.coincap.io/v2/assets/` API to make my requests. The application runs on port 3001 and has two endpoints:
+This project is a simple example of how redis works, I used the `https://api.coincap.io/v2/assets/` API to make my requests. The application runs on `port 3001` and has two endpoints:
 
 ```bash
 htttp://localhost:3000/coins
