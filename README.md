@@ -7,7 +7,7 @@ htttp://localhost:3000/coins
 htttp://localhost:3000/coins/${coin_id} # htttp://localhost:3000/coins/bitcoin
 ```
 
-You can use insomnia or postman for your tests, I chose to use my postman clone, if you want to try the clone is available at [postman-clone](https://github.com/viniciusteixeiradias/postman-clone)
+You can use insomnia or postman for your tests, I chose to use my postman clone, if you want to try the clone is available at [postman-clone](https://github.com/viniciusteixeiradias/postman-clone).
 
 ## Redis (simple commands)
 
