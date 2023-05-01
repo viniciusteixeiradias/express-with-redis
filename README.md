@@ -2,9 +2,9 @@
 
 This project is a simple example of how redis works, I used the `https://api.coincap.io/v2/assets/` API to make my requests. The application runs on port 3001 and has two endpoints:
 
-```ts
+```bash
 htttp://localhost:3000/coins
-htttp://localhost:3000/coins/${coin_id} // htttp://localhost:3000/coins/bitcoin
+htttp://localhost:3000/coins/${coin_id} # htttp://localhost:3000/coins/bitcoin
 ```
 
 You can use insomnia or postman for your tests, I chose to use my postman clone, if you want to try the clone is available at [postman-clone](https://github.com/viniciusteixeiradias/postman-clone)
